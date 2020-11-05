@@ -84,9 +84,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
 
-            //<
-
-            // {"id":1, "username":"pouros"}
+     
         })
 
 
